@@ -4,7 +4,7 @@ const About = () => (
   <section id="about" data-aos="fade-up">
     <h2>About Me</h2>
     <div className="about-container">
-      <img src="/samplepic.jpg" alt="Profile" className="profile-image" />
+      <img src={process.env.PUBLIC_URL + "/samplepic.jpg"} alt="Profile" className="profile-image" />
       <div className="about-text">
         <p>
           Hi, I'm Jerico — I'm a computer engineering stundent passionate about front-end development and user experience design.
