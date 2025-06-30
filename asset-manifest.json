@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/eco-portfolio/static/css/main.f4bb5ef5.css",
+    "main.js": "/eco-portfolio/static/js/main.c1c9c5b6.js",
+    "static/js/453.ad7768ec.chunk.js": "/eco-portfolio/static/js/453.ad7768ec.chunk.js",
+    "index.html": "/eco-portfolio/index.html",
+    "main.f4bb5ef5.css.map": "/eco-portfolio/static/css/main.f4bb5ef5.css.map",
+    "main.c1c9c5b6.js.map": "/eco-portfolio/static/js/main.c1c9c5b6.js.map",
+    "453.ad7768ec.chunk.js.map": "/eco-portfolio/static/js/453.ad7768ec.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f4bb5ef5.css",
+    "static/js/main.c1c9c5b6.js"
+  ]
+}
